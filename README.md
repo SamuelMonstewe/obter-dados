@@ -11,4 +11,4 @@
 * Quantos números negativos foram fornecidos;
 * Em quais posições foram armazenados valores entre 100 e 200
 
-**Para fazer o item 2 criei uma variavel para armazenar um valor pequeno para quando inserir o primeiro valor no vetor, o `if` se torne automaticamente `true`. A mesma ideia foi usada no item 3**
+**Para fazer o item 2 criei uma variavel para armazenar um valor pequeno para quando inserir o primeiro valor no vetor, o `if` para encontrar o maior valor se torne na primeira condição automaticamente `true`. A mesma ideia foi usada no item 3**
